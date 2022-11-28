@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A107F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OLE</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A107FOLE</CSCName>
+        <CSCVersion>8BUC3</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/XID/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>XID</CustomerCode>
+            <Version>SAOMC_SM-A107F_OLE_XID_QQ_0010</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.srin.garut" />
+                <package name="com.srin.fakfak" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.lazada.android" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.vidio.android" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

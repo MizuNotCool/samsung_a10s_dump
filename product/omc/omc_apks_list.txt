@@ -1,0 +1,3 @@
+/product/priv-app/appcloud_oobe_samsungGlobal-release_V3.22.7.0/appcloud_oobe_samsungGlobal-release_V3.22.7.0.apk
+/product/priv-app/RPT_SamsungPay_issuerrptprod_release_1288/RPT_SamsungPay_issuerrptprod_release_1288.apk
+/product/priv-app/Samsung_Gift__Indonesia_-_Version_3.5.3/Samsung_Gift__Indonesia_-_Version_3.5.3.apk
