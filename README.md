@@ -15,7 +15,3 @@
 - Fingerprint: samsung/a10sxx/a10s:10/QP1A.190711.020/A107FXXU8BUC2:user/release-keys
 - OTA version: 
 - Branch: a10sxx-user-10-QP1A.190711.020-A107FXXU8BUC2-release-keys
-- Repo: samsung_a10s_dump
-
-
->Dumped by [Phoenix Firmware Dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
